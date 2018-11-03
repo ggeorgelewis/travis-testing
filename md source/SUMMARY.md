@@ -5,7 +5,7 @@
 ## Know Your Customer \(KYC\)
 
 * [What is KYC?](know-your-customer-kyc/what-is-kyc.md)
-* [KYC on komgo](know-your-customer-kyc/kyc-on-komgo.md)
+* [KYC on komgo](know-your-customer-kyc/kyc-on-platform.md)
 * [Main screens](know-your-customer-kyc/main-screens/README.md)
   * [Counterparty Docs Screen](know-your-customer-kyc/main-screens/counterparty-docs-screen.md)
   * [Document Library](know-your-customer-kyc/main-screens/document-library.md)
